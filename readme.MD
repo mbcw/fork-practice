@@ -5,6 +5,7 @@ To run just type command below in the terminal:
 	node main.js
 
 Modules:
+
 0. jump number cacluator.
 	x = x / 2 when x is even
 	x = x * 3 + 1 when x is odd
