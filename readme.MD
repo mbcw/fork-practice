@@ -3,7 +3,7 @@
 I use it to familar with the communications between children process.
 
 To Run program just type command below in the terminal:	
-##	node main.js
+#####	node main.js
 
 ## Modules:
 
@@ -13,7 +13,6 @@ To Run program just type command below in the terminal:
 	stop when x = 1
 
 ### 1. main
-
 	1. create two children: odd_child, even_child
 	2. send number to children
 	3. get back number from children
