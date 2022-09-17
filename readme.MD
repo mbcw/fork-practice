@@ -3,7 +3,11 @@
 I use it to familar with the communications between children process.
 
 To Run program just type command below in the terminal:	
-#####	node main.js
+####	node main.js
+######	children/parent spread in 3 files.
+
+####	node all-in-one.js
+######	all in one file.
 
 ## Modules:
 
