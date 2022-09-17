@@ -2,9 +2,11 @@
 
 I use it to familar with the communications between children process.
 
-To Run program just type command below in the terminal:	
-####	node main.js           # children/parent spread in 3 files.
-####	node all-in-one.js     # all in one file.
+Type commands below to run:
+###	node main.js
+- children/parent spread in 3 files.
+###	node all-in-one.js     
+- all in one file.
 
 ## Modules:
 
@@ -31,5 +33,9 @@ To Run program just type command below in the terminal:
 		get number from main
 		calculate next number
 		send next number when next number is even
+
+### 4. all-in-one 
+	parent/odd-child/even-child are all in this module.
+	using argument "odd"/"even" to run distince child.
 
 ## That's all.
