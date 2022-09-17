@@ -36,6 +36,6 @@ Type commands below to run:
 
 ### 4. all-in-one 
 	parent/odd-child/even-child are all in this module.
-	using argument "odd"/"even" to run distince child.
+	using argument "odd"/"even" to run distinct child.
 
 ## That's all.
